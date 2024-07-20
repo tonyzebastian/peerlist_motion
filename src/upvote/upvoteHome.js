@@ -1,5 +1,4 @@
 import React from 'react';
-import { IoReturnUpBackOutline } from "react-icons/io5";
 import Upvote from './upvote.js';
 import HeaderBack from '../BaseComponents/headerBack.js';
 
