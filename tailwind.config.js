@@ -14,7 +14,8 @@ module.exports = {
         },
 
         fontFamily: {
-          'JetBrains': ['JetBrains Mono', 'monospace'], // Custom font
+          'JetBrains': ['JetBrains Mono', 'monospace'],
+          'Playfair': ['Playfair Display', 'serif'],
         },
         
       },
